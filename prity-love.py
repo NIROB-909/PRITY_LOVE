@@ -3,5 +3,5 @@
 #তর টিম কে আন্তর্জাতিক ভাবে চুদি 
 
 import os
-import SHIFAT-PAID-OKEY.py
-SHIFAT-PAID-OKEY.py.loging()
+import prity-love.py
+prity-love.py.loging()
